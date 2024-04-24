@@ -1,16 +1,25 @@
-.lista li {
-    display: block;
-    font-size: 22px;
+.lista{
     color: #707070;
     line-height: 34px;
-    padding: 0px;
-    margin: 0px;
+    padding-left: 0px;
+    margin-top: 104;
 }
 
-.lista ol {
-    list-style-type: none;
+.lista li p{
+    font-size: 22px;
+    padding-left: 0px;
+    margin-bottom: 55px;
 }
 
-.lista li a {
+.lista ol{
+    margin-top: 104px;
+    list-style-position: inside;
+    font-size: 70px;
+    list-style-type: decimal-leading-zero;
+    padding-left: 0px;
+}
+
+.lista li a{
     color: #FF0000;
+    padding-left: 0px;
 }

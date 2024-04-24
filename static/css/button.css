@@ -10,7 +10,7 @@
     background-color: black;
     line-height: 50px;
     padding: 14px 33px;
-    margin-bottom: 197px;
+    margin-bottom: 119px;
     position: relative;
 }
 
@@ -21,8 +21,8 @@
     background-image: url(../images/arrow.svg);
     display: block;
     position: absolute;
-    right: 14px;
+    right: 31px;
     top: 50%;
     transform: translateY(-50%);
-    background-repeat: none;
+    background-size: 28px 34px;;
 }
